@@ -2,7 +2,7 @@
  
 **`Fullstack Developer / Programmer`**
 
-I'm Vedant Thakre, a fullstack developer pretty good with bits and bytes. I have a knack for web development, and those trusty "Ctrl," "C," and "V" keys are my loyal companions. I'm no stranger to problem-solving either, thanks to my experience on platforms like Codeforces and Leetcode. If you ever need someone to work magic in the digital world, I'm your guy. While I may not dive into the technical jargon, I'm passionate about making the online world more functional and user-friendly.
+I'm Vedant Thakre, a fullstack developer who is pretty good with bits and bytes. I have a knack for web development, and those trusty "Ctrl," "C," and "V" keys are my loyal companions. I'm no stranger to problem-solving either, thanks to my experience on platforms like Codeforces and Leetcode. I'm eager to leverage my skills, passion, and drive to contribute to innovative tech projects and collaborate with like-minded professionals. While I may not dive into the technical jargon, I'm passionate about making the online world more functional and user-friendly.
 
 <!--
 **vedant-thakre/vedant-thakre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
