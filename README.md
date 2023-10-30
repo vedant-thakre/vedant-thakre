@@ -1,4 +1,5 @@
-# 🎮 Vedant Thakre
+# 🎮  Vedant Thakre
+ 
 
 <!--
 **vedant-thakre/vedant-thakre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
