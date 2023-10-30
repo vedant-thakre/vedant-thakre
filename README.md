@@ -6,7 +6,9 @@ I'm a fullstack developer, I have a knack for web development, and those trusty 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ved-thakre/)](https://www.linkedin.com/in/ved-thakre/)
 
+---
 
+# 🧰  Languages and Tools
 <!--
 **vedant-thakre/vedant-thakre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
